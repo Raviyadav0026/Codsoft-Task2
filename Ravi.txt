@@ -1,0 +1,1 @@
+Hello Everyone! This is a java programming project for "Wordcount". It is a Codsoft internship task given to me. So I am glad that I have completed it.And this is working properly. 
